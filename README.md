@@ -206,22 +206,6 @@ EcoVision-AI
 
 ---
 
-## 👨‍💻 Author
 
-### Pramit Kumar Panda
-
-Artificial Intelligence & Machine Learning Enthusiast
-
-Focused on Computer Vision, Deep Learning, Generative AI, and Intelligent Automation Systems.
-
----
-
-## ⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
-
-It helps the project gain visibility and motivates further development.
-
----
 
 ### ♻️ EcoVision AI — Transforming Waste Management Through Intelligent Computer Vision
